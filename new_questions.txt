@@ -1,0 +1,37 @@
+Who has the first name Alice?
+Who has the first name Alice in the team Yankee?
+How many people named Alice are there?
+How many people named Alice are there in the team Yankee?
+What is the birthday of Alice?
+How long has Alice worked in the company?
+How long has Alice worked in the team Yankee?
+What is the current salary of Alice?
+How many days off has Alice taken this year?
+How many days off does Alice have left this year?
+When was the last holiday Alice took?
+How long was the last holiday that Alice took?
+How many people work on team Yankee?
+What is the size of department Delta?
+What are the sizes of all teams in department Delta?
+What are the names of the people in all teams in department Delta?
+Who are the managers of the teams in department Delta?
+How much time is Alice currently spending on project Alpha?
+How many days has team Yankee worked on project Alpha?  
+How many hours has team Yankee worked on project Alpha?  
+What skill does Alice have?
+What kind of skill does Alice currently want to improve?
+What kind of skill does Alice currently want to work on?
+What roles has Alice been working on since she joined the company?
+Can you show me the latest performance review of Alice?
+What is Alice working on?
+What tasks is Alice working on?
+Is Alice still free for other projects?
+What is Alice capacity right now?
+What is Alice's bandwidth right now?
+Is Alice busy?
+What tasks are Alice and Bob working together?
+Has Alice ever worked with Bob before?
+How often is Alice working with Bob?
+Who has Java skill in the company?
+Who has Java skill in team Yankee?
+Who are currently working with Alice?
