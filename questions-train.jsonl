@@ -1,0 +1,5 @@
+{"data": {"text_list": ["", "; ; <end>"]}}
+{"data": {"text_list": ["What is the full name of Alice?", "g.V().hasLabel(<object_1>).has(<identifier_1>, <value_1>).values(<result_1>); object_1='person'; identifier_1='name'; value_1='Alice'; result_1='full name'; <end>"]}}
+{"data": {"text_list": ["Who is the boss of Alice?", "g.V().hasLabel(<object_1>).has(<identifier_1>, <value_1>).in(<relationship_1>).hasLabel(<object_2>).values(<result_1>); object_1='person'; identifier_1=name; value_1='Alice'; relationship_1='is the boss of'; object_2='person'; result_1='name'; <end>"]}}
+{"data": {"text_list": ["Who is the manager of Alice?", "g.V().hasLabel(<object_1>).has(<identifier_1>, <value_1>).in(<relationship_1>).hasLabel(<object_2>).values(<result_1>); object_1='person'; identifier_1=name; value_1='Alice'; relationship_1='is the manager of'; object_2='person'; result_1='name'; <end>"]}}
+{"data": {"text_list": ["Who is the supervisor of Alice?", "; ; <end>"]}}
